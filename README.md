@@ -1,4 +1,5 @@
 # About me
+- ✍️Technical writer with 10 years of experience and a couple of degrees I picked up along the way. 
 - 💻 I’m currently learning the arcane art of API documentation.
 - 🤸‍♀️ I’m looking to collaborate on opensource technical writing API documentation. 
 - 🧘‍♀️ Pronouns: she/her
